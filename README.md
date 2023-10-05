@@ -2,8 +2,8 @@
 
 Here are some things about me:
 
-- 🌱 I’m currently working with node.js & react
-- I am familiar with Python, C++, and embedded C
-- I am familiar with coding microcontrollers
+- 🌱 I’m experienced in product management
+- I am proficient in Python, C++, and embedded C
+- I am proficient with coding microcontrollers
 - 💬 Ask me about history
 
